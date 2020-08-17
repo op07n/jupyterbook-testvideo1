@@ -1,3 +1,15 @@
 jupyter-book>=0.7.0b
-matplotlib
+folium
 numpy
+matplotlib
+ipywidgets
+pandas
+nbclient
+sympy
+plotly
+bokeh
+altair
+sphinx-click
+sphinx_tabs
+sphinx-panels
+jupytext[myst]
