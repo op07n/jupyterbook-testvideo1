@@ -22,6 +22,6 @@ repository:
 
 launch_buttons:
   notebook_interface: "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
-  binderhub_url: "https://notebooks.gesis.org/binder/"
+  binderhub_url: "https://notebooks.gesis.org/binder"
   colab_url: "https://colab.research.google.com"
   thebe: true
