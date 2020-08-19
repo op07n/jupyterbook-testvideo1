@@ -25,12 +25,3 @@ launch_buttons:
   binderhub_url: "https://notebooks.gesis.org/binder/"
   colab_url: "https://colab.research.google.com"
   thebe: true
-
-latex:
-  latex_documents:
-    targetname: book.tex
-    
-extra_extensions:
-    - sphinx_click.ext
-    - sphinx_tabs.tabs
-    - sphinx_panels    
