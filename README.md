@@ -1,3 +1,3 @@
 # jupyterbook-testvideo1
 
-Code borrowed from https://github.com/jina-jyl/jupyter
+Somwe code borrowed from https://github.com/jina-jyl/jupyter
